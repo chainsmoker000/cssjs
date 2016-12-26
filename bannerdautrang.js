@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://goo.gl/wUSN1x' target='_blank'><img src='http://hocakoihcm.com/wp-content/uploads/2016/01/Ho-ca-koi-nhat-ban-2.jpg' width='500px'/><br/>13 HỒ CÁ KOI </a>. LIÊN HỆ CHỊ GẤM SĐT:0913858465 . <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://goo.gl/wUSN1x' target='_blank'><img src='http://hocakoihcm.com/wp-content/uploads/2016/01/Ho-ca-koi-nhat-ban-2.jpg' width='500px'/><br/>HỒ CÁ KOI </a>. LIÊN HỆ CHỊ GẤM SĐT:0913858465 . <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
